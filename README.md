@@ -3,12 +3,11 @@ It contains all the practice problems that I had coded while learning Data Struc
 
 Topicwise problems that I had solved.
 # Arrays
-ArrangeNumbers
-DSA.ja
-FindDuplicate
-FindUnique
-LargestElement
-LinearSearch
-SumOfElements
-SwapAlternate
+1.ArrangeNumbers
+2.FindDuplicate
+3.FindUnique
+4.LargestElement
+5.LinearSearch
+6.SumOfElements
+7.SwapAlternate
 
