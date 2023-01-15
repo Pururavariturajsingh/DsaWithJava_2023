@@ -12,5 +12,5 @@ Topicwise problems that I had solved.
 7. SwapAlternate
 8. ArrayIntersection
 9. Sort000111
-10.SumPair
+10. SumPair
 11. TriplateSum
